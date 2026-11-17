@@ -18,4 +18,4 @@ Datawhale《Deep Agents 实战》的个人学习笔记。
 
 | 章 | 标题 | 笔记 |
 |---|---|---|
-| 第 1–2 章 | 认识 Deep Agents 与快速上手 | [笔记](ch01-02-learning-notes.md)（第 2 章覆盖到计算器 Agent） |
+| 第 1–2 章 | 认识 Deep Agents 与快速上手 | [笔记](ch01-02-learning-notes.md) |
